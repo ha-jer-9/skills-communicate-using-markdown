@@ -10,3 +10,6 @@
 ###### This is an `<h6>` header, which is the smallest
 
 This is not a header, which is the smallestest
+![Image of Hubot](https://octodex.github.com/images/hubot.png)
+
+
