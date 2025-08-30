@@ -12,4 +12,18 @@
 This is not a header, which is the smallestest
 ![Image of Hubot](https://octodex.github.com/images/hubot.png)
 
+``` verilog
+wire myVar ;
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+``` vhdl
+signal myvar : std_logic;
+```
+``` 
+Hello world!
+```
+
 
